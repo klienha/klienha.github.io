@@ -1,3 +1,17 @@
+.header {
+  padding: 80px; /* some padding */
+  text-align: center; /* center the text */
+  font-family: serif;
+    font-weight: normal;
+  background: #45a6c4; /* color of background */
+  color: rgb(255, 255, 255); /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+  font-size: 40px;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
