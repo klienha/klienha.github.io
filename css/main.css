@@ -54,13 +54,7 @@ img.center {
   margin-right: auto;
   width: 50%;
 }
-h3 {
-  color: white;
-  text-align: center;
-  font-family: Lucida Calligraphy, cursive;
-  font-size: 35px;
-  font-weight: normal;
-}
+
 /*Footers*/
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
