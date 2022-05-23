@@ -1,1 +1,1 @@
-# Website creation with HTML and CSS
+# Website creation made of HTML and CSS with Jekyll static site generator for default data
